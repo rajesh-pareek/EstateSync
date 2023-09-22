@@ -1,0 +1,19 @@
+{
+  "name": "yariga-realestate-dashboard",
+  "version": "1.0.0",
+  "description": "<a name=\"readme-top\"></a>\r <div align=\"center\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajesh-pareek/Yariga-Realestate-Dashboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajesh-pareek/Yariga-Realestate-Dashboard/issues"
+  },
+  "homepage": "https://github.com/rajesh-pareek/Yariga-Realestate-Dashboard#readme"
+}
