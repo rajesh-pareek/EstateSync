@@ -8,7 +8,7 @@
   ![Yariga Logo](readme_assets/yariga_logo-light.svg#gh-light-mode-only)
 
   <p>
-  <b>Yariga</b> is a Full Stack MERN Dashboard App With CRUD, Auth, and Charts Using Refine
+  <b>EstateSync</b> is a Full Stack MERN Dashboard App With CRUD, Auth, and Charts Using Refine
   </p>
   
 <!-- Badges -->
